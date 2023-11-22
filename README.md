@@ -2,13 +2,11 @@
 
 ![Data Flow](https://github.com/DJMLteam2/DP_DB/assets/135206238/97a8c68f-7b53-4fff-860c-056753aea787)
 
-# 사용방법
-팀 DB
-AWS RDS
-HOST : database-1.ckodcngpvqn9.ap-northeast-2.rds.amazonaws.com
-USERNAME : admin
-PORT : 3306
-PW : 조장에게 문의
+# 팀 DB - AWS RDS
+ - HOST : database-1.ckodcngpvqn9.ap-northeast-2.rds.amazonaws.com
+ - USERNAME : admin
+ - PORT : 3306
+ - PW : 조장에게 문의
 
 # 사용방법
 1) 데이터 다운로드  
